@@ -77,9 +77,13 @@ plt.show()
 ```
 ## Output:
 ![image](https://github.com/user-attachments/assets/78caa5d9-ec2c-42d8-87eb-bacc4e47adc8)
+
 ![image](https://github.com/user-attachments/assets/106f8ea3-1353-4395-8bcc-39e57fed773c)
+
 ![image](https://github.com/user-attachments/assets/0cc46b1c-e12e-416a-a78b-0f8295949a1f)
+
 ![image](https://github.com/user-attachments/assets/f37b381b-27a8-440d-a5b6-e875cd21d015)
+
 ![image](https://github.com/user-attachments/assets/bed3e182-95d6-4ad3-a692-5b3d69fd9803)
 
 
